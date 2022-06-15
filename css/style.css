@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    background-color:burlywood,
+}
+.lead{
+    font-size: 3rem;
+}
